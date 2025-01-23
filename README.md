@@ -1,4 +1,3 @@
-# Webpack5
+# Домашнее задание к занятию "2. DOM"
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+[![Build status](https://ci.appveyor.com/api/projects/status/awujliuhg8vi51d0?svg=true)](https://ci.appveyor.com/project/Daber711/dom)
